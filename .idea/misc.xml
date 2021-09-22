@@ -12,7 +12,9 @@
         <entry key="..\:/Users/Admin/AndroidStudioProjects/BotShop/app/src/main/res/layout/activity_sports.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/BotShop/app/src/main/res/layout/activity_tech_domain.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/BotShop/app/src/main/res/layout/activity_user_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Hackathon-TSEC/app/src/main/res/drawable-anydpi/ic_action_add_profile_circle.xml" value="0.202734375" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Hackathon-TSEC/app/src/main/res/drawable-anydpi/ic_action_arrow.xml" value="0.202734375" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Hackathon-TSEC/app/src/main/res/drawable-anydpi/ic_action_attachment.xml" value="0.202734375" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Hackathon-TSEC/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.2703125" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Hackathon-TSEC/app/src/main/res/drawable-anydpi/ic_action_online.xml" value="0.202734375" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Hackathon-TSEC/app/src/main/res/drawable-anydpi/ic_action_send_arrow.xml" value="0.202734375" />
@@ -44,7 +46,7 @@
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Hackathon-TSEC/app/src/main/res/layout/fragment_chats.xml" value="0.190625" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Hackathon-TSEC/app/src/main/res/layout/group_chat_receiver_sample.xml" value="0.190625" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Hackathon-TSEC/app/src/main/res/layout/group_chat_sender_bubble.xml" value="0.190625" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/Hackathon-TSEC/app/src/main/res/layout/sample_receiver.xml" value="0.152" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Hackathon-TSEC/app/src/main/res/layout/sample_receiver.xml" value="0.2" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Hackathon-TSEC/app/src/main/res/layout/sample_senders.xml" value="0.2" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Hackathon-TSEC/app/src/main/res/layout/show_users.xml" value="0.190625" />
       </map>
