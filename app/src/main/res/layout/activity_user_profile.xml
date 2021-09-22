@@ -61,8 +61,7 @@
                     android:id="@+id/description_textview"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="I am Raj, currently i am looking for some 4k screen
-televisions with high refresh rate of screen."
+                    android:text="No Description"
                     android:textSize="16sp"
                     android:textColor="#4682B4"/>
 
