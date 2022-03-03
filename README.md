@@ -2,6 +2,8 @@
 
 An App which connects the buyers and sellers on the same platform and enables communication between them
 
+Month of creation : September 2021
+
 Features:
 
 1.Chatbot
